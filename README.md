@@ -15,7 +15,8 @@
 - The truth table must be memorized and understood to be able to be mastered.
 - A declarative sentence is the structure required for a proposition. 
 - I've learned about the terms negation, conjunction, disjunction, exclusive or, biconditional and implications.
-| Laws | Logical Equivalences |
+
+ | Laws | Logical Equivalences |
  | :-----: |:-------:|
  | Identity Laws | p v F = p; p ∧ T = p |
  | Domination Laws | p v T = T; p ∧ F = F |
@@ -27,6 +28,7 @@
  | Distributive Laws | p v (q ∧ r) = (p v q) ∧ (p v r) |
  | De Morgan's Laws | ¬(p ∧ q) = ¬p v ¬q |
  | Absorption Laws | p v (p ∧ q) = p; p ∧ (p v q) = p |
+ 
 #Week 3
 - I've learned that by using logical statements, you can prove statements.
 - Truth and Validity are different things.
