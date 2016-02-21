@@ -2,7 +2,7 @@
 
 #Week 1
 - An introduction to DISMATH was discussed. I am absent by that time but still managed to ask my classmates for the lesson.
-| Logical Symbol  |  Logical Operator | Shorthand | Formula | Logical Expression |
+- | Logical Symbol  |  Logical Operator | Shorthand | Formula | Logical Expression |
  | :-----: |:-------:|:-----:| :-------: | :-------: |
  | ¬ |Negation | not | val(¬p) = 1 - val(p) | ¬p |
  | ∧ | Conjunction | and | val(p ∧ q) = min(val(p), val(q)) | p ∧ q |
