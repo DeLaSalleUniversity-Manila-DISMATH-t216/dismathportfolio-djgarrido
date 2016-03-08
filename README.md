@@ -47,3 +47,7 @@
 - One must show that assuming the negation of a premise is true leads to a contradiction when it comes to proof of contradiction. We have tested different conditions and premises using the proof of contradiction.
 - In this proof, according to Sir Arthur Conan Doyle, "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth."
 - It is a combination of a direct and indirect proof when it comes to proof of equivalence.
+
+#Week 6
+- We are taught the basics of MIT App Inventor.
+- Additional lessons about functions were taught. Tricky exercises about the topic were given.
